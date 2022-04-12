@@ -1,0 +1,1 @@
+Relative to the previous one I added QT widget to change frequency
