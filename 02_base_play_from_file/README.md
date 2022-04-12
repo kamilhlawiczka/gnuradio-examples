@@ -20,3 +20,7 @@ or play by aplay:
 ```
 aplay output.wav
 ```
+
+# Screenshot
+
+![screenshot](./screenshot.png?raw=true "screenshot")
